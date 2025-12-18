@@ -1,0 +1,5 @@
+import java.util.Array;
+Array.sort(arr);
+
+formate:
+Array.sort(arr,starting index(si),ending index(ei));
